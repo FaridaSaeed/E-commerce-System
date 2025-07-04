@@ -1,0 +1,12 @@
+# Ignore compiled Java files and build outputs
+out/
+*.class
+target/
+
+# IntelliJ / Eclipse IDE configs
+.idea/
+*.iml
+
+# macOS and Windows
+.DS_Store
+Thumbs.db
